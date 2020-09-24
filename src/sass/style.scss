@@ -1,0 +1,12 @@
+@import "libs/normalize";
+* {
+    font-family: Circe, Arial, sans-serif;
+}
+
+@import 'blocks/preloader';
+.container {
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+@import "blocks/mainscreen"
